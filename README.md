@@ -6,3 +6,5 @@ I've used [useReducer()](https://reactjs.org/docs/hooks-reference.html#usereduce
 
 ## Snapshot of the app
 
+![Calculator](images/calculator.png)
+
